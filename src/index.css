@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.wrapper-box{
+  border: 1px solid #eee;
+  padding-bottom: 1.5em;
+  margin-bottom: 1.5em;
+}
+table{
+  width:100%;
+}
+.border-line{
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1.5em;
+}
